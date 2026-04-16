@@ -9,6 +9,6 @@ What motivates me most is detecting critical bugs before they impact users and b
 
 I’m currently focused on growing as a QA Automation Engineer, strengthening my skills in Python-based automation and API testing, and contributing to teams that build stable, high-quality software products.
 
-📫 Contáctame:
+📫 Contact me:
 
 ✉️ calenis@utp.edu.co 💼 [LinkedIn] https://www.linkedin.com/in/carlos-lenis-812a5918/ 🖼️ [Portafolio] https://github.com/Fitzonder
