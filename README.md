@@ -1,3 +1,6 @@
+
+<img width="1400" height="350" alt="1776361783989" src="https://github.com/user-attachments/assets/9c580482-2dee-4d48-bd75-d3572afa67ff" />
+
 I transitioned into Quality Assurance because I’m driven by the challenge of finding what others don’t see and ensuring software works reliably for real users. My background working with tech and blockchain communities helped me develop a strong ability to understand complex systems, analyze user issues, and communicate effectively with developers—skills that naturally align with QA.
 
 During my training as a QA Engineer, I gained hands-on experience in manual testing, API testing, and test automation. I’ve worked on designing and executing test cases, identifying and documenting defects, and improving product quality using tools like Postman, Selenium, and Python (Pytest). I’m also comfortable working with SQL and debugging tools to validate data and troubleshoot issues.
